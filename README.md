@@ -1,8 +1,19 @@
+# Do poczytania o zmianach w kodzie i komentarzach do nich: 
+W razie bardzo rozbudowanego kodu lub skomplikowanych nazw zmiennych lub stałych, proszę o napisanie komentarza nad linijkami osobnych funkcji czy zmiennych/stałych/deklaracji stanu. 
+Dla tych co nie wiedzą lub nie pamiętają, VS Code ma super skrót klawiszowy który zaznaczony tekst konwertuje automatycznie w komentarz, dzięki czemu nie trzeba pamiętać kiedy i jaką ma budowę dokładnie komentarz w danym rozszerzeniu/języku.
+
+[Lewy CTRL]+[klawisz /]
+
+# Nowinki w budowie
+W folderze 'src' został dodany plik data.js, w którym znajdują się dane związane z propozycjami placków.
+Wszelkie komentarze do działania tej biblioteki, znajdziecie też tam.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Nikt nie spodziewał się Hiszpańskiej Inkwizycji...
 
 In the project directory, you can run:
 
